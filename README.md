@@ -1,7 +1,7 @@
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=250&text=Jewon%20Rho&fontAlignY=40&color=gradient)
 
 
-<h3 align="left"> ☎️ Contact!</h3>
+<h3 align="left"> ☎️ Contact</h3>
 <p align="left">
   <a href="https://velog.io/@jw4185" target="_blank"><img src="https://img.shields.io/badge/BLOG-20C997?style=for-the-badge&logo=Velog&logoColor=white"/></a>
   <a href="mailto:rhojewon@gmail.com" target="_blank"><img src="https://img.shields.io/badge/rhojewon@gmail.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
