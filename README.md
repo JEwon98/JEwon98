@@ -1,4 +1,4 @@
-![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Jewon%20Rho&fontAlign=77&fontAlignY=40&color=gradient)
+![header](https://capsule-render.vercel.app/api?type=slice&color=0:EEFF00,100:a82da8&height=300&section=header&text=Jewon%20Rho&fontSize=90)
 ### Hi there 👋
 <!--
 **JEwon98/JEwon98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
