@@ -30,9 +30,9 @@
 </p>
 <br>
 
-![JEwon98's GitHub stats](https://github-readme-stats.vercel.app/api/?username=JEwon98&show_icons=true&theme=radical)
+[![JEwon98's GitHub stats](https://github-readme-stats.vercel.app/api?username=JEwon98&show_icons=true&theme=radical)](https://github.com/JEwon98/github-readme-stats)
 
-[![JEwon98's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=JEwon98&show_icons=true&layout=compact&theme=radical)](https://github.com/JEwon98)
+[![JEwon98's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=JEwon98&show_icons=true&layout=compact&theme=radical)](https://github.com/JEwon98/github-readme-stats)
 
 <!--
 **JEwon98/JEwon98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
