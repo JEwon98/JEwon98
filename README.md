@@ -30,7 +30,7 @@
 </p>
 <br>
 
-[![JEwon98's GitHub stats](https://github-readme-stats.vercel.app/api?username=JEwon98&show_icons=true&theme=radical)](https://github.com/JEwon98/github-readme-stats)
+<!-- [![JEwon98's GitHub stats](https://github-readme-stats.vercel.app/api?username=JEwon98&show_icons=true&theme=radical)](https://github.com/JEwon98/github-readme-stats) -->
 
 <!-- [![JEwon98's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=JEwon98&show_icons=true&layout=compact&theme=radical)](https://github.com/JEwon98/github-readme-stats) -->
 
